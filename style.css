@@ -42,3 +42,93 @@ a{
 #side-bar ul li{
     padding: 10px;
 }
+#c-2{
+    margin-left:2px;
+  width: 50%;
+    height: 655px;
+    
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    overflow: auto;
+}
+#head{
+    display: block;
+    width: 50%;
+    height:40px;
+    padding: 10px;
+}
+#profile{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    margin-left: 10px;
+    
+}
+#search-bar{
+    height: 83px;
+}
+#s-1{
+    outline: none;
+    text-decoration: none;
+    border: none;
+    margin-top: 10px;
+    width: 500px;
+    height: 30px;
+    background-color: transparent;
+    margin-inline-end: 25px;
+    margin-inline-start: 30px;
+}
+.bi-images{
+    margin-top: 40px;
+   margin-left: 40px;
+}
+.bi-gift-fill{
+    margin-top: 40px;
+    margin-left: 20px;
+
+}
+.bi-list-nested{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.bi-emoji-smile-fill{
+    margin-top: 40px;
+    margin-left: 20px;
+
+}
+.me-md-2{
+    display: inline;
+    margin-left: 360px;
+    height: 30px;
+    width: 70px;
+    padding:1px 5px 0 5px;
+    background-color:rgb(29, 155, 240);
+    border-radius: 90px;
+    
+}
+.p-n{
+    display: inline;
+}
+.post{
+    margin-left: 45px;
+}
+.bi-chat{
+    margin-left: 95px;
+    
+}
+.bi-arrow-90deg-down{
+    margin-left: 95px;
+}
+.bi-heart{
+    margin-left: 95px;
+}
+.bi-upload{
+    margin-left: 95px;
+}
+.p-i{
+    overflow: auto;
+    display: block;
+    margin-left: 50px;
+    height: 400px;
+    width: 550px;
+    border-radius: 10px;
+}
